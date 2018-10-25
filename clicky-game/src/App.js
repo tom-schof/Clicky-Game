@@ -56,14 +56,16 @@ class App extends Component {
     if (character.clicked === true){
       this.setState({correctGuess: "D'Oh! You guessed wrong"});
       this.setState({score: 0});
-      this.state.Simpsons.map(Simpson => Simpson.clicked = false);
-      console.log(Simpsons);
+      const resetSimpsons = this.state.Simpsons;
+      resetSimpsons.map(Simpson => Simpson.clicked = false);
+      this.setState({Simpsons: resetSimpsons});   
+      // console.log(Simpsons);
 
     }else{
       this.setState({correctGuess: "Woo Hoo! You guessed right!"});
       this.handleIncrement();
       character.clicked = true;
-      console.log(Simpsons);
+      // console.log(Simpsons);
 
     }
     
