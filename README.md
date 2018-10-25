@@ -8,7 +8,7 @@ Clicky-Game is a react based, simpsons themed memory game.
 Click an image to score points but don't click any image more than once.
 
 ## Deployed Link
-[Deployed to github pages](https://tom-schof.github.io/Clicky-Game/)
+[Deployed to github pages](https://tom-schof.github.io/Clicky-Game/index)
 
 ## Contributing
 Built and maintained by Tom S.
