@@ -1,0 +1,184 @@
+[{
+    "id": 1,
+    "name": "Homer",
+    "image": "./images/Homer.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Marge",
+    "image": "./images/Marge.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Bart",
+    "image": "./images/Bart.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Lisa",
+    "image": "./images/Lisa.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Maggie",
+    "image": "./images/Maggie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Moe",
+    "image": "./images/Moe.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Lenny",
+    "image": "./images/Lenny.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Carl",
+    "image": "./images/Carl.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Barney",
+    "image": "./images/Barney.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Apu",
+    "image": "./images/Apu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Mr. Burns",
+    "image": "./images/Mr. Burns.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Krusty",
+    "image": "./images/Krusty.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Smithers",
+    "image": "./images/Smithers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Mayor Quimby",
+    "image": "./images/Mayor Quimby.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Sideshow Bob",
+    "image": "./images/Sideshow Bob.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Groundskeeper Willie",
+    "image": "./images/Groundskeeper Willie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "Prinicpal Skinner",
+    "image": "./images/Principal Skinner.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "name": "Chief Wiggam",
+    "image": "./images/Chief Wiggam.png",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "name": "Milhouse",
+    "image": "./images/Milhouse.png",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "name": "Grandpa Abe Simpson",
+    "image": "./images/Abe Simpson.png",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "name": "Ralph",
+    "image": "./images/Ralph.jpg",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "name": "Ned Flanders",
+    "image": "./images/Ned Flanders.jpg",
+    "clicked": false
+  },  
+  {
+    "id": 23,
+    "name": "Sea Captain",
+    "image": "./images/Old Sea Captain.png",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "name": "Mrs. Krabappel",
+    "image": "./images/Mrs. Krabappel.png",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "name": "Dr. Hibbert",
+    "image": "./images/Dr. Hibbert.png",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "name": "Dr. Nick",
+    "image": "./images/Dr. Nick.jpg",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "name": "Nelson",
+    "image": "./images/Nelson.png",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "name": "Comic Book Guy",
+    "image": "./images/Comic Book Guy.jpg",
+    "clicked": false
+  }
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+

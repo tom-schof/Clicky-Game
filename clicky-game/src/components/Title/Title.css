@@ -1,0 +1,14 @@
+.title {
+  width: 100%;
+  text-align: center;
+  padding-top: 6%;
+  color: #ffd90f;
+  font-size: 6rem;
+  vertical-align: middle;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+  margin-bottom: 50px;
+}

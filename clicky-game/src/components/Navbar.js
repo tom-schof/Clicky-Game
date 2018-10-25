@@ -1,26 +1,33 @@
 import React from "react";
 import "../styles/Navbar.css";
 
-// By importing the Navbar.css file, it is added to the DOM whenever this component loads
+const CardBody = props => (
+  <div className="card-body">
+    <p className="card-text">Click Count: {props.count}</p>
+    <button className="btn btn-primary" onClick={props.handleIncrement}>
+      Increment
+    </button>{" "}
+    <button className="btn btn-danger" onClick={props.handleDecrement}>
+      Decrement
+    </button>
+  </div>
+);
 
-// We can also style a component inside of its JavaScript file by adding style properties to its rendered elements
-// Unlike regular HTML, a JSX style property must be an object instead of a string
-// On a style object, we camelCase all property names, and put all of the values in quotes
-// Non quoted values default to "pixels", e.g. height, margin, padding
 
-const styles = {
-  navbarStyle: {
-    background: "green",
-    justifyContent: "flex-end"
-  }
-};
-
-// We use JSX curly braces to evaluate the style object on the JSX tag
-
-const Navbar = () => (
-  <nav style={styles.navbarStyle} className="navbar">
-    <a href="/">Welcome</a>
-  </nav>
+const Navbar = (props) => (
+  <nav className="navbar navbar-default">
+    <div className="navbar-home">
+      <h2 href="/">Clicky Game</h2>
+    </div>
+    <div className="navbar-status">
+      <h2>{props.correctGuess}</h2>
+    </div>
+    <div className="navbar-score">
+      <h2>Score: {props.score}</h2>
+      <h2>High Score: {props.highScore}</h2>
+    </div>
+    
+</nav>
 );
 
 export default Navbar;

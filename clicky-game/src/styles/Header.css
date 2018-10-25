@@ -1,12 +1,33 @@
 .header {
-  background: #b71775;
-  height: 200px;
+  /* background-image: url("./backgrounds/Wiki-background.jpg"); */
+  height: 21%;
+  background-size: cover;
+  width:100%;
 }
 
 .header h1 {
-  margin: 0;
-  padding-top: 75px;
+  margin: 35px;
   text-align: center;
-  color: white;
-  font-size: 3rem;
+  color: #ffd90f;
+  font-size: 4rem;
+  vertical-align: middle;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+
+.header h2 {
+  margin: 15 auto;
+padding-bottom: 5%;
+  text-align: center;
+  color: #ffd90f;
+  font-size: 2rem;
+  vertical-align: middle;
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
